@@ -1,8 +1,8 @@
-#Hux Blog
+#Z.YU Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Hux Blog &rarr;](https://yuzhenbo.yzb.life)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://yuzhenbo.yzb.life/img/blog-desktop.jpg)
 
 
 
