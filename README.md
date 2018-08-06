@@ -11,10 +11,10 @@
 Want to clone a boilerplate instead of my buzz blog? Here comes this!  
 
 ```
-$ git clone git@github.com:Huxpro/huxblog-boilerplate.git
+$ git clone git@github.com:yuzhenbo/huxblog-boilerplate.git
 ```
 
-**[View Boilerplate Here &rarr;](http://huangxuan.me/huxblog-boilerplate/)**
+**[View Boilerplate Here &rarr;](http://yuzhenbo.yzb.life/huxblog-boilerplate/)**
 
 
 ## Porting 
